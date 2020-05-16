@@ -10,14 +10,14 @@
       },
       "platforms": [
         {
-          "name": "Arduino SAMD core - Pull request #%%PR_NUMBER%% (build %%BUILD_NUMBER%%)",
+          "name": "Gzitch Watch ATSAMD51G18A 1.5.11",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "http://downloads.arduino.cc/PR/samd/%%FILENAME%%",
-          "archiveFileName": "%%FILENAME%%",
-          "checksum": "SHA-256:%%CHECKSUM%%",
-          "size": "%%SIZE%%",
+          "url": "https://github.com/josheskin/uf2-samdx1/blob/BoardDev/GzitchBoard/1.5.11.zip",
+          "archiveFileName": "1.5.11.zip",
+          "checksum": "17b47cff9659f00f40127256e4aa7cef0ae09f59a7859a38c5bfcfc7aa2868df",
+          "size": "6638708",
           "boards": [
             {
               "name": "Gzitch Watch M4"
