@@ -3,8 +3,8 @@
     {
       "name": "gzitch-watch",
       "maintainer": "Gzitch",
-      "websiteURL": "http://www.arduino.cc/",
-      "email": "packages@arduino.cc",
+      "websiteURL": "http://www.gzitch.com",
+      "email": "packages@gzitch.com",
       "help": {
         "online": "http://www.arduino.cc/en/Reference/HomePage"
       },
