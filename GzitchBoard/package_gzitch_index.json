@@ -14,8 +14,8 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/josheskin/uf2-samdx1/blob/BoardDev/GzitchBoard/1.5.11.zip",
-          "archiveFileName": "1.5.11.zip",
+          "url": "https://github.com/josheskin/uf2-samdx1/blob/BoardDev/GzitchBoard/1.5.11.zip?raw=true",
+		  "archiveFileName": "1.5.11.zip",
           "checksum": "17b47cff9659f00f40127256e4aa7cef0ae09f59a7859a38c5bfcfc7aa2868df",
           "size": "6638708",
           "boards": [
