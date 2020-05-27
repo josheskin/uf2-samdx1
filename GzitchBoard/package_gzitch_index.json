@@ -12,7 +12,7 @@
         {
           "name": "Gzitch Watch ATSAMD51G18A 1.0.1",
           "architecture": "samd",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Contributed",
           "url": "https://github.com/josheskin/uf2-samdx1/blob/BoardDev/GzitchBoard/1.0.1.zip?raw=true",
 		  "archiveFileName": "1.0.1.zip",
