@@ -19,6 +19,7 @@
           "boards": [
             {
               "name": "Gzitch Watch M4"
+			  "name": "Adafruit ItsyBitsy M4"
             }
           ],
           "toolsDependencies": [
